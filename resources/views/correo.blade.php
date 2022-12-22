@@ -1,0 +1,1 @@
+El usuario "{{ Auth::user()->name }}" ha creado una requisicion
